@@ -1,12 +1,11 @@
 ### Hi there, this is Phuong 👋 
-- 🔭 I’m currently working on 
-- 🌱 I'm currently learning
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: trandinhnamphuong1911@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact:
+- 🔭 I’m working on a personal project
+- 🌱 I'm learning Python
+- ⚡ Fun fact: I can speak 5 languages
+
+## Connect with me
+<img align="left" alt="audhiaprilliant | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="audhiaprilliant | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 <!--
 **phuongtran19/phuongtran19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
