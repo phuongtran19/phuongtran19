@@ -21,6 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 
-
-
-[medium]: https://medium.com/@phuongtran1911
+[medium]: https://medium.com/@audhiaprilliant/
