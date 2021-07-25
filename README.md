@@ -1,6 +1,6 @@
 ### Hi there, this is Phuong 👋 
 - 🔭 I’m working on a cool personal project to change the way Vietnamese people study foreign languages
-- 💬 I'm passionate about 
+- 💬 I'm passionate about education and the environment
 - 🌱 I'm learning Python
 - ⚡ Fun fact: I can speak 5 languages
 
