@@ -5,8 +5,8 @@
 - ⚡ Fun fact: I can speak 5 languages
 
 ## Connect with me
-<img align="left" alt="audhiaprilliant | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 [<img align="left" alt="audhiaprilliant | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+
 <!--
 **phuongtran19/phuongtran19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
