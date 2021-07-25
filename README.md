@@ -5,7 +5,7 @@
 
 ## Connect with me
 
-[<img align="left" alt="audhiaprilliant | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+
 
 <!--
 **phuongtran19/phuongtran19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: trandinhnamphuong1911@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
+
+[<img align="left" alt="audhiaprilliant | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 [medium]: https://medium.com/@audhiaprilliant/
